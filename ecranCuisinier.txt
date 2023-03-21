@@ -1,0 +1,4 @@
+Commande n1 : Aliment [nom=baconBurger], Aliment [nom=frites], Aliment [nom=coca].
+Commande n1 : Aliment [nom=baconBurger], Aliment [nom=frites], Aliment [nom=coca].
+Commande n2 : Aliment [nom=baconBurger], Aliment [nom=frites], Aliment [nom=coca].
+Commande n2 : Aliment [nom=baconBurger], Aliment [nom=frites], Aliment [nom=coca].
